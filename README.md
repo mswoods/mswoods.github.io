@@ -8,4 +8,6 @@ on Jan. 9th, 2022. This Website was some of the pre-class
 homework. It started with creating a github account   
 and then building a simple website with text and an image.
 
-Lot's more to come.
+Lot's more to come.   
+🛫
+
